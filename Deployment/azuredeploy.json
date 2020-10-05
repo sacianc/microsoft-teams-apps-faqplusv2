@@ -613,7 +613,7 @@
           "condition": "[not(empty(parameters('gitRepoUrl')))]"
         }
       ]
-    }
+    },
     {
       "type": "Microsoft.Web/sites",
       "apiVersion": "2016-08-01",
